@@ -16,9 +16,9 @@
   {
     "objectID": "background.html",
     "href": "background.html",
-    "title": "McBeth Ahortor",
+    "title": "Background",
     "section": "",
-    "text": "Research Statistician Intern\nInstitute for Mathematical and Statistical Innovation\nMay 2024 - August 2024\n\nGraduate Research Assistant\nMontana State University Bozeman – Statistical Consulting and Research Services (SCRS)\nAugust 2023 - May 2024\n\nGraduate Teaching Assistant\nMontana State University Bozeman\nAugust 2021 - July 2023\n\nData Analyst\nGhana Statistical Service, 2021 Population and Housing Census\nJanuary 2021 - August 2021\n\nUndergraduate Teaching and Research Assistant\nKwame Nkrumah University of Science and Technology September 2019 - August 2020\n\n\n\n\nDoctor of Philosophy (Ph.D.) in Statistics\nMontana State University - Bozeman\nExpected December 2026\n\nMaster of Science (M.S.) in Statistics\nMontana State University - Bozeman\nAugust 2021 - May 2023\n\nBachelor of Science (B.S.) in Actuarial Science\nKwame Nkrumah University of Science and Technology - Ghana\nSeptember 2015 - May 2019"
+    "text": "::: {#hero-heading}\n\n## Professional Experience\nResearch Statistician Intern\nInstitute for Mathematical and Statistical Innovation\nMay 2024 - August 2024\n\nGraduate Research Assistant\nMontana State University Bozeman – Statistical Consulting and Research Services (SCRS)\nAugust 2023 - May 2024\n\nGraduate Teaching Assistant\nMontana State University Bozeman\nAugust 2021 - July 2023\n\nData Analyst\nGhana Statistical Service, 2021 Population and Housing Census\nJanuary 2021 - August 2021\n\nUndergraduate Teaching and Research Assistant\nKwame Nkrumah University of Science and Technology September 2019 - August 2020\n\n## Education\nDoctor of Philosophy (Ph.D.) in Statistics\nMontana State University - Bozeman\nExpected December 2026\n\nMaster of Science (M.S.) in Statistics\nMontana State University - Bozeman\nAugust 2021 - May 2023\n\nBachelor of Science (B.S.) in Actuarial Science\nKwame Nkrumah University of Science and Technology - Ghana\nSeptember 2015 - May 2019\n\n:::"
   },
   {
     "objectID": "background.html#professional-experience",
@@ -44,8 +44,8 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Curriculum vitae",
+    "title": "Resume",
     "section": "",
-    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+    "text": "Download current CV"
   }
 ]

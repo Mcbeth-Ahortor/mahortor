@@ -22,14 +22,14 @@ website:
       - href: teaching.qmd
         text: Teaching
         
-      - href: ResumeWeb.pdf
+      - href: resume.qmd
         text: Resume
 
 format:
   html:
     fontsize: 1.1em
     theme: 
-      - pulse
+      - lux
       - styles.scss
     toc: false
     code-link: true
