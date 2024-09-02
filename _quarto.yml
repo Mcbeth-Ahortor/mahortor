@@ -6,8 +6,8 @@ website:
   title: "Macbeth Ahortor"
 
   page-footer:
-    left: "&copy; Copyright 2024, Macbeth Ahortor"
-    right: ""
+    left: "&copy; Macbeth Ahortor, 2024"
+    
 
   navbar:
     pinned: true
@@ -22,7 +22,7 @@ website:
       - href: teaching.qmd
         text: Teaching
         
-      - href: resume.qmd
+      - href: ResumeWeb.pdf
         text: Resume
 
 format:
