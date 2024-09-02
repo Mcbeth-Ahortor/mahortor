@@ -23,9 +23,6 @@ about:
 
 Macbeth Ahortor, a Ghanaian scholar who earned his Bachelor’s degree in Actuarial Science from Kwame Nkrumah University of Science and Technology (KNUST) in 2019. He continued his academic journey at Montana State University, where he completed a Master of Science in Statistics in 2023. Currently, he is pursuing a PhD in Statistics, focusing on high-dimensional statistical inference within multiple hypothesis testing frameworks and mixed effects modeling. Macbeth is a soccer enthusiast who enjoys playing and watching soccer.
 
-### Contact:  
-
-Email: mcbethahortor@montana.edu
 
 ### Office:
 
@@ -34,9 +31,5 @@ Department of Mathematical Sciences
 Montana State University  
 Bozeman, MT 59717-2400
 
-
-
 :::
-
-
 

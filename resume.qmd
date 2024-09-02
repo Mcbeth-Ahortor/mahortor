@@ -2,8 +2,8 @@
 layout: page
 title: Resume
 excerpt: My current Resume
-execute:
-  freeze: false  # never re-render during project render
+# execute:
+#   freeze: false  # never re-render during project render
 engine: knitr 
 resources:
   - "ResumeWeb.pdf"

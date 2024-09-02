@@ -11,7 +11,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Instructor\n\nMontana State University Bozeman\nFall 2022 - Spring 2023\nMATH 121: College Algebra\n\nMontana State University Bozeman\nFall 2021 - Summer 2022\nSTAT 216: Introductory Probability and Statistics\n\n\n\nTeaching Assistant\n\nMontana State University Bozeman\nFall 2023 - Spring 2024\nMATH 221: Introduction to Linear Algebra\n\nKwame Nkrumah University of Science and Technology\nFall 2019\nACTS 463: Loss Models\nSpring 2020\nACTS 461: Basic Pension Maths\nACTS 364: Life Contingencies"
+    "text": "::: {#details}\n\nInstructor\n\nMontana State University Bozeman\nFall 2022 - Spring 2023\nMATH 121: College Algebra\n\nMontana State University Bozeman\nFall 2021 - Summer 2022\nSTAT 216: Introductory Probability and Statistics\n\n\n\nTeaching Assistant\n\nMontana State University Bozeman\nFall 2023 - Spring 2024\nMATH 221: Introduction to Linear Algebra\n\nKwame Nkrumah University of Science and Technology\nFall 2019\nACTS 463: Loss Models\nSpring 2020\nACTS 461: Basic Pension Maths\nACTS 364: Life Contingencies"
   },
   {
     "objectID": "background.html",
@@ -47,5 +47,19 @@
     "title": "Resume",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "footer.html",
+    "href": "footer.html",
+    "title": "Macbeth Ahortor",
+    "section": "",
+    "text": "Connect with me:"
+  },
+  {
+    "objectID": "ReadME.html",
+    "href": "ReadME.html",
+    "title": "Macbeth Ahortor",
+    "section": "",
+    "text": "“# mahortor”"
   }
 ]
