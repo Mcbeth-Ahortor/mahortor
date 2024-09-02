@@ -10,6 +10,8 @@ website:
     right: ""
 
   navbar:
+    pinned: true
+    logo: Ahortor_Mcbeth_profile.jpg
     right:
       - href: index.qmd
         text: Home
@@ -21,13 +23,20 @@ website:
         text: Teaching
         
       - href: resume.qmd
-        text: resume
+        text: Resume
 
 format:
   html:
-    theme: sandstone
-    css: styles.css
-    toc: true
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
 
 
 
