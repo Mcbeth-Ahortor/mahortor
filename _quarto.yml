@@ -1,17 +1,31 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Webb"
+  title: "Macbeth Ahortor"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Macbeth Ahortor"
+    right: ""
+
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+
+      - href: background.qmd
+        text: Background
+        
+      - href: teaching.qmd
+        text: Teaching
+        
+      - href: resume.qmd
+        text: resume
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

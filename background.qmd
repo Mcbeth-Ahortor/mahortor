@@ -1,0 +1,80 @@
+---
+title: "McBeth Ahortor"
+id: hero-heading
+links:
+  - icon: envelope-at
+    text: Gmail
+    href: mailto:macbethahortor@gmail.com
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/mcbethahortor/
+  - icon: github
+    text: Github
+    href: https://github.com/Mcbeth-Ahortor
+---
+
+
+::: {#hero-heading}
+
+
+---
+
+## Professional Experience
+
+**Research Statistician Intern**  
+*Institute for Mathematical and Statistical Innovation*  
+May 2024 - August 2024
+
+---
+
+**Graduate Research Assistant**  
+*Montana State University Bozeman – Statistical Consulting and Research Services (SCRS)*  
+August 2023 - May 2024
+
+---
+
+**Graduate Teaching Assistant**  
+*Montana State University Bozeman*  
+August 2021 - July 2023
+
+---
+
+**Data Analyst**  
+*Ghana Statistical Service, 2021 Population and Housing Census*  
+January 2021 - August 2021
+
+---
+
+**Undergraduate Teaching and Research Assistant**
+
+*Kwame Nkrumah University of Science and Technology*
+September 2019 - August 2020
+
+---
+
+
+
+
+## Education 
+
+
+**Doctor of Philosophy (Ph.D.) in Statistics**  
+*Montana State University - Bozeman*  
+Expected December 2026
+
+---
+
+**Master of Science (M.S.) in Statistics**  
+*Montana State University - Bozeman*  
+August 2021 - May 2023
+
+---
+
+**Bachelor of Science (B.S.) in Actuarial Science**  
+*Kwame Nkrumah University of Science and Technology - Ghana*  
+September 2015 - May 2019
+
+---
+
+:::
+
