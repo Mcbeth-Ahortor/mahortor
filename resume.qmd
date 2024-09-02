@@ -3,7 +3,7 @@ layout: page
 title: Resume
 excerpt: My current Resume
 execute:
-  freeze: true  # never re-render during project render
+  freeze: false  # never re-render during project render
 engine: knitr 
 resources:
   - "ResumeWeb.pdf"

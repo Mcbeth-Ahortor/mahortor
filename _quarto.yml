@@ -28,6 +28,8 @@ website:
 format:
   html:
     fontsize: 1.1em
+    mainfont: century gothic
+    fontcolor: "#000000" 
     theme: 
       - lux
       - styles.scss
