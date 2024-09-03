@@ -10,7 +10,7 @@ links:
     href: https://www.linkedin.com/in/mcbethahortor/
   - icon: github
     text: Github
-    href: https://github.com/Mcbeth-Ahortor
+    href: https://github.com/mahortor
 ---
 
 

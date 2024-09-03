@@ -1,17 +1,15 @@
 
 ```{=html}
-<footer style="background-color: #333; color: #fff; padding: 10px 0; text-align: center;">
-  <p>Connect with me:</p>
-  <a href="https://www.linkedin.com/in/mcbethahortor/" target="_blank" style="color: #0e76a8; text-decoration: none; margin: 0 10px;">
-    <i class="fa fa-linkedin"></i> LinkedIn
-  </a>
-  |
-  <a href="mailto:macbethahortor@gmail.com" style="color: #D44638; text-decoration: none; margin: 0 10px;">
-    <i class="fa fa-envelope"></i> Gmail
-  </a>
-  |
-  <a href="https://github.com/mahortor" target="_blank" style="color: #333; text-decoration: none; margin: 0 10px;">
-    <i class="fa fa-github"></i> GitHub
-  </a>
-</footer>
+page-footer:
+  left: "&copy; Macbeth Ahortor, 2024"
+  right: |
+    <a href="mailto:your-email@gmail.com" class="footer-button">
+      <i class="fab fa-google"></i> Gmail
+    </a>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank" class="footer-button">
+      <i class="fab fa-linkedin"></i> LinkedIn
+    </a>
+    <a href="https://github.com/your-username" target="_blank" class="footer-button">
+      <i class="fab fa-github"></i> GitHub
+    </a>
 
