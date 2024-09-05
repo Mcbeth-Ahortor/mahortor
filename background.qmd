@@ -17,7 +17,6 @@ links:
 ::: {#hero-heading}
 
 
----
 
 ## Professional Experience
 
@@ -27,8 +26,8 @@ May 2024 - August 2024
 
 ---
 
-#### Graduate Research Assistant  
-Montana State University Bozeman  
+#### Graduate Research Assistant   
+Montana State University Bozeman   
 Statistical Consulting and Research Services (SCRS)   
 August 2023 - May 2024
 
@@ -41,13 +40,13 @@ August 2021 - July 2023
 ---
 
 #### Data Analyst  
-Ghana Statistical Service, 2021 Population and Housing Census 
+Ghana Statistical Service, 2021 Population and Housing Census  
 January 2021 - August 2021
 
 ---
 
 #### Undergraduate Teaching and Research Assistant  
-Kwame Nkrumah University of Science and Technology  
+Kwame Nkrumah University of Science and Technology   
 September 2019 - August 2020
 
 ---

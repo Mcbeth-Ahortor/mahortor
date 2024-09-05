@@ -37,12 +37,12 @@ website:
 
 format:
   html: 
-    fontsize: 1.1em
+    fontsize: 1.0em
     mainfont: century gothic
     fontcolor: "#000000" 
     theme: 
       - lux
-      - styles.scss
+      - theme.scss
     toc: false
     code-link: true
     anchor-sections: true
