@@ -6,7 +6,7 @@ website:
   title: "Mcbeth Ahortor"
 
   page-footer:
-    right: "&copy; Macbeth Ahortor, 2024"
+    right: "&copy; Macbeth Ahortor | 2024"
     center: |
           <a href="mailto:macbethahortor@gmail.com" class="footer-button">
             <i class="bi bi-envelope-at"></i>
