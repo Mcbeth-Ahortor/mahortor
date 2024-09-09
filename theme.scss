@@ -11,39 +11,85 @@ $gray-700: #495057 !default;
 $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black:    #000 !default;
+$blueblack: #002e4e !default;
+$greenblue: #2c7da0 !default;
 // scss-docs-end gray-color-variables
 
 
 // The page text color
 $body-color: $gray-400;
 // The page background color
-$body-bg: $gray-100;
+$body-bg: $greenblue;
 
-// Justify the bio text on the homepage
-#hero-heading {
-  text-align: justify;
-}
-
-// Define a light blue color if it's not already defined
-$light-blue: #d0e8f2 !default; // You can change this to any shade of light blue
+// Define a light blue color
+$dark-blue: #001a2c !default; // Light blue background
+$gray-800: #66707a; // Optional gray color for borders
 
 // Style the bio and image container
 #bio-section {
-  background-color: $light-blue; // Light blue background
+  background-color: $dark-blue; // Light blue background
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
-  border-radius: 10px; // Optional: to slightly round the corners
+  border-radius: 10px; // Optional: rounded corners
   border: 1px solid $gray-300; // Optional: add a border for better definition
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items: flex-start; // Align the content within the container
   text-align: justify;
 }
 
+/* Adjust the profile image */
 .profile-image {
   width: 150px;
   height: auto;
-  margin-bottom: 20px;
-  border-radius: 10px;
+  margin-right: 20px; /* Space between image and text */
+  border-radius: 10px; /* Slight rounding */
+}
+
+/* Hero heading section */
+#hero-heading {
+  text-align: justify;
+  flex: 1; /* Ensures the text takes up the remaining space next to the image */
+}
+
+/* Make sure that links, headings, and strong text are also white */
+#bio-section a,
+#bio-section h1, 
+#bio-section h2{
+  color: #ffffff; /* Ensure all text elements, including strong and headings, are white */
+}
+#bio-section strong {
+  color: #cca000; /* Gold color for strong text */
+}
+
+
+/* Apply styling to the entire footer */
+.footer {
+  background-color: $dark-blue !important; /* Dark blue background */
+  padding: 20px !important;
+  text-align: center !important;
+  width: 100% !important;
+}
+
+/* Style the container that holds the footer links */
+.nav-footer {
+  background-color: $dark-blue !important; /* Dark blue background */
+  gap: 10px !important; /* Space between links */
+}
+
+/* Style the individual footer links */
+.nav-footer-center a {
+  color: #cca000 !important; /* Gold text */
+  text-decoration: none !important; /* Remove underline */
+  gap: 30px !important; /* Space between icon and text */
+}
+
+.nav-footer-center a:hover {
+  color: #b8860b !important; /* Darker gold on hover */
+}
+
+/* Style the icons */
+.nav-footer-center i {
+  font-size: 2em !important; /* Increase icon size */
+  color: #cca000 !important; /* Gold icons */
 }

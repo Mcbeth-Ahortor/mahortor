@@ -3,21 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Macbeth Ahortor"
+  title: "Mcbeth Ahortor"
 
   page-footer:
-    left: "&copy; Macbeth Ahortor, 2024"
-    right: |
-      <a href="mailto:macbethahortor@gmail.com" class="footer-button">
-        <i class="bi bi-envelope-fill"></i> Gmail
-      </a>
-      <a href="https://www.linkedin.com/in/mcbethahortor/" target="_blank" class="footer-button">
-        <i class="bi bi-linkedin"></i> LinkedIn
-      </a>
-      <a href="https://github.com/mahortor" target="_blank" class="footer-button">
-        <i class="bi bi-github"></i> GitHub
-      </a>
-    
+    right: "&copy; Macbeth Ahortor, 2024"
+    center: |
+          <a href="mailto:macbethahortor@gmail.com" class="footer-button">
+            <i class="bi bi-envelope-at"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/mcbethahortor" target="_blank" class="footer-button">
+            <i class="bi bi-linkedin"></i>
+          </a>
+          <a href="https://github.com/Mcbeth-Ahortor" target="_blank" class="footer-button">
+            <i class="bi bi-github"></i>
+          </a>
+    background: light
+    border: false
 
   navbar:
     pinned: false
@@ -39,7 +40,7 @@ format:
   html: 
     fontsize: 1.0em
     mainfont: century gothic
-    fontcolor: "#000000" 
+    fontcolor: "white" 
     theme: 
       - lux
       - theme.scss
@@ -49,4 +50,3 @@ format:
     fig-cap-location: margin
     reference-location: margin
     footnotes-hover: true
-
